@@ -67,6 +67,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<a href="https://github.com/lfutrell1/Rangeforce-Certificate-of-Continuing-Education/blob/main/Rangeforce%20Certifcate%20of%20Continuing%20Education%20Completion.pdf"><img src="https://img.shields.io/badge/-Rangeforce-000080?&style=for-the-badge&logoColor=white"" /></a>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
