@@ -65,13 +65,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<a href="https://github.com/lfutrell1/PC-Pro-Certificate/blob/main/LF%20PC%20Pro%20Certificate.pdf"><img src="https://img.shields.io/badge/-TestOut%20PC%20Pro-ffbc14?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/lfutrell1/Network-Pro-Certificate/blob/main/Network%20Pro%20Certificate.pdf"><img src="https://img.shields.io/badge/-TestOut%20Network%20Pro-ffbc14?&style=for-the-badge&logoColor=white" /></a>
 <a href="https://github.com/lfutrell1/Rangeforce-Certificate-of-Continuing-Education/blob/main/Rangeforce%20Certifcate%20of%20Continuing%20Education%20Completion.pdf"><img src="https://img.shields.io/badge/-Rangeforce-000080?&style=for-the-badge&logoColor=white"" /></a>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
